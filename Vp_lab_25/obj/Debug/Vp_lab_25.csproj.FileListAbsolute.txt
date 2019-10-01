@@ -1,0 +1,10 @@
+C:\Users\Sumiya Afzal\source\repos\Vp_lab_25\Vp_lab_25\bin\Debug\Vp_lab_25.exe.config
+C:\Users\Sumiya Afzal\source\repos\Vp_lab_25\Vp_lab_25\bin\Debug\Vp_lab_25.exe
+C:\Users\Sumiya Afzal\source\repos\Vp_lab_25\Vp_lab_25\bin\Debug\Vp_lab_25.pdb
+C:\Users\Sumiya Afzal\source\repos\Vp_lab_25\Vp_lab_25\obj\Debug\Vp_lab_25.csprojAssemblyReference.cache
+C:\Users\Sumiya Afzal\source\repos\Vp_lab_25\Vp_lab_25\obj\Debug\Vp_lab_25.Form1.resources
+C:\Users\Sumiya Afzal\source\repos\Vp_lab_25\Vp_lab_25\obj\Debug\Vp_lab_25.Properties.Resources.resources
+C:\Users\Sumiya Afzal\source\repos\Vp_lab_25\Vp_lab_25\obj\Debug\Vp_lab_25.csproj.GenerateResource.cache
+C:\Users\Sumiya Afzal\source\repos\Vp_lab_25\Vp_lab_25\obj\Debug\Vp_lab_25.csproj.CoreCompileInputs.cache
+C:\Users\Sumiya Afzal\source\repos\Vp_lab_25\Vp_lab_25\obj\Debug\Vp_lab_25.exe
+C:\Users\Sumiya Afzal\source\repos\Vp_lab_25\Vp_lab_25\obj\Debug\Vp_lab_25.pdb
